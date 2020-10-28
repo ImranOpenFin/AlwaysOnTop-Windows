@@ -1,0 +1,21 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "Test Application",
+        "description": "Test Application",
+        "url": "http://localhost:8080/index.html",
+        "uuid": "Test_app",
+        "defaultHeight": 300,
+        "defaultWidth": 300,
+        "maximizable":true,
+        "company": "OpenFin",
+        "autoShow": true,
+        "contextMenu": true,
+        "alwaysOnTop":false
+       
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "stable"
+    }
+  }
